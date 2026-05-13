@@ -73,4 +73,4 @@ If cadence is missing, choose a conservative default and state it.
 
 Designed to work well before AgentReacher scheduling. The table can be turned into posts, review tasks, or scheduled drafts.
 
-Example usage in AgentReacher: "Build a 30-day calendar for our AgentReacher launch across X, LinkedIn, Threads, and TikTok."
+Example usage in AgentReacher: "Build a 30-day calendar for our AgentReacher launch across X, Instagram, Facebook, LinkedIn, TikTok, YouTube, Pinterest, Threads, and Bluesky."

@@ -34,7 +34,7 @@ Pull out the core promise, 3-7 atomic ideas, proof points, story moments, object
    educational, founder story, product demo, objection handling, proof, and contrast.
 
 2. Select platform formats:
-   X post/thread, LinkedIn narrative/list, Threads sequence, short-form video, and Instagram carousel.
+   X post/thread, Instagram post/reel/carousel, Facebook post, LinkedIn narrative/list, TikTok short-form video, YouTube Short, Pinterest pin, Threads sequence, and Bluesky post.
 
 3. Write channel-native drafts:
    give each post a distinct angle, reuse facts rather than wording, adapt CTA intensity to platform norms, and keep proof visible.
@@ -79,4 +79,4 @@ Pull out the core promise, 3-7 atomic ideas, proof points, story moments, object
 
 Compatible with AgentReacher autonomous posting pipelines. Use this skill before scheduling so the campaign enters the calendar as platform-specific posts instead of duplicated copy.
 
-Example usage in AgentReacher: "Repurpose this changelog into a one-week launch campaign for X, LinkedIn, Threads, and TikTok."
+Example usage in AgentReacher: "Repurpose this changelog into a one-week launch campaign for X, Instagram, Facebook, LinkedIn, TikTok, YouTube, Pinterest, Threads, and Bluesky."

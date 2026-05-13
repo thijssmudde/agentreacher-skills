@@ -67,4 +67,4 @@ Set a realistic publishing rhythm. The cadence should be ambitious enough to lea
 
 Use this before AgentReacher scheduling to decide how many posts the agent should create and where the calendar needs human review.
 
-Example usage in AgentReacher: "Plan a realistic 6-week cadence for X, LinkedIn, Threads, and TikTok with two hours of review time per week."
+Example usage in AgentReacher: "Plan a realistic 6-week cadence for X, Instagram, Facebook, LinkedIn, TikTok, YouTube, Pinterest, Threads, and Bluesky with two hours of review time per week."
