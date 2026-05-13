@@ -1,0 +1,30 @@
+name: Skill request
+description: Suggest a new social media workflow skill
+title: "[Skill]: "
+labels:
+  - skill-request
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow
+      description: What should the agent be able to do?
+      placeholder: Plan a 2-week launch calendar from a changelog and three proof points.
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Inputs
+      description: What information should the skill ask for or infer?
+      placeholder: Date range, channels, audience, campaign goal, assets, approval constraints.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: What should the skill produce?
+      placeholder: A scheduling-ready table with date, platform, post angle, CTA, asset, and status.
+    validations:
+      required: true

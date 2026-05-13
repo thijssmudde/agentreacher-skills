@@ -1,0 +1,34 @@
+name: Bug report
+description: Report a problem with an existing skill
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill
+      options:
+        - content-pillars
+        - cadence-planner
+        - calendar-builder
+        - viral-hooks
+        - repurpose
+        - positioning
+        - post-packager
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What went wrong or felt unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should the skill do instead?
+    validations:
+      required: true
