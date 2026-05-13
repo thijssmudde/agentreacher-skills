@@ -12,6 +12,13 @@ Install from this repository with a skills-compatible agent:
 npx skills@latest add thijssmudde/agentreacher-skills
 ```
 
+Or add it as a SkillUse registry:
+
+```sh
+npx skilluse repo add thijssmudde/agentreacher-skills --path skills --default
+npx skilluse repo skills
+```
+
 Then select the skills you want:
 
 - `/content-pillars` - Define repeatable campaign themes.
@@ -52,19 +59,19 @@ For a whole period of scheduled content:
 
 ### Planning
 
-- `content-pillars` - Define durable themes, formats, proof sources, and ratio guidance.
-- `cadence-planner` - Decide weekly frequency, channel mix, and review capacity.
-- `calendar-builder` - Build a period-based campaign calendar with dates, platforms, angles, assets, and status.
-- `post-packager` - Convert drafts into approval-ready scheduling packages.
+- [`content-pillars`](skills/content-pillars/SKILL.md) - Define durable themes, formats, proof sources, and ratio guidance.
+- [`cadence-planner`](skills/cadence-planner/SKILL.md) - Decide weekly frequency, channel mix, and review capacity.
+- [`calendar-builder`](skills/calendar-builder/SKILL.md) - Build a period-based campaign calendar with dates, platforms, angles, assets, and status.
+- [`post-packager`](skills/post-packager/SKILL.md) - Convert drafts into approval-ready scheduling packages.
 
 ### Social Media
 
-- `viral-hooks` - Create hooks for launch posts, founder stories, product updates, educational threads, and short-form video openings.
-- `repurpose` - Convert long-form notes, blogs, transcripts, changelogs, demos, or launch plans into platform-specific social assets.
+- [`viral-hooks`](skills/viral-hooks/SKILL.md) - Create hooks for launch posts, founder stories, product updates, educational threads, and short-form video openings.
+- [`repurpose`](skills/repurpose/SKILL.md) - Convert long-form notes, blogs, transcripts, changelogs, demos, or launch plans into platform-specific social assets.
 
 ### Strategy
 
-- `positioning` - Map competitors, find credible contrast, and produce positioning angles without dunking, exaggeration, or feature-list copy.
+- [`positioning`](skills/positioning/SKILL.md) - Map competitors, find credible contrast, and produce positioning angles without dunking, exaggeration, or feature-list copy.
 
 ## License
 
