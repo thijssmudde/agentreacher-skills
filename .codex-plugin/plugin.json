@@ -1,0 +1,8 @@
+{
+  "name": "agentreacher-skills",
+  "skills": [
+    "./skills/social-media/viral-hook-generator",
+    "./skills/social-media/repurpose-content",
+    "./skills/strategy/competitor-positioning"
+  ]
+}

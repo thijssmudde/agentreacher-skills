@@ -1,0 +1,7 @@
+interface:
+  display_name: "Repurpose Content"
+  short_description: "Turn source assets into social campaigns"
+  default_prompt: "Use $repurpose-content to turn this source asset into a platform-specific social content package."
+
+policy:
+  allow_implicit_invocation: true

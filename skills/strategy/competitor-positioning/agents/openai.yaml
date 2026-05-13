@@ -1,0 +1,7 @@
+interface:
+  display_name: "Competitor Positioning"
+  short_description: "Find a credible market wedge"
+  default_prompt: "Use $competitor-positioning to compare these alternatives and turn the gap into campaign-ready positioning."
+
+policy:
+  allow_implicit_invocation: true
