@@ -34,7 +34,7 @@ Pull out the core promise, 3-7 atomic ideas, proof points, story moments, object
    educational, founder story, product demo, objection handling, proof, and contrast.
 
 2. Select platform formats:
-   X post/thread, LinkedIn narrative/list, Threads sequence, short-form video, Instagram carousel, Reddit discussion.
+   X post/thread, LinkedIn narrative/list, Threads sequence, short-form video, and Instagram carousel.
 
 3. Write channel-native drafts:
    give each post a distinct angle, reuse facts rather than wording, adapt CTA intensity to platform norms, and keep proof visible.

@@ -15,7 +15,7 @@ Create hooks that make the right audience want the next sentence. Do not chase g
 ## Inputs
 
 - audience: who should care
-- platform: X, LinkedIn, Threads, TikTok, Instagram, Reddit, YouTube Shorts, or newsletter/social hybrid
+- platform: X, LinkedIn, Threads, TikTok, Instagram, YouTube Shorts, or another supported social channel
 - asset: product, announcement, idea, story, opinion, data point, demo, or lesson
 - desired action: read, reply, click, follow, share, try, join waitlist, or book demo
 - proof: screenshot, metric, user quote, failure, before/after, demo, or specific experience
@@ -53,7 +53,6 @@ If no platform is provided, produce hooks for X and LinkedIn by default.
 - LinkedIn: clear professional stakes, less irony, more context.
 - Threads: conversational, casual, founder/personality-led.
 - TikTok/Reels/Shorts: first 1-2 seconds must be visual or spoken plainly.
-- Reddit: no sales framing; make it sound like a real community question, story, or lesson.
 
 ## Output Format
 
