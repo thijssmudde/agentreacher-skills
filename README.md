@@ -9,13 +9,13 @@ These skills are intentionally small. They package taste, constraints, and repea
 Install from this repository with a skills-compatible agent:
 
 ```sh
-npx skills@latest add thijssmudde/agentreacher-skills
+npx skills add agentreacher/skills --all
 ```
 
 Or add it as a SkillUse registry:
 
 ```sh
-npx skilluse repo add thijssmudde/agentreacher-skills --path skills --default
+npx skilluse repo add agentreacher/skills --path skills --default
 npx skilluse repo skills
 ```
 
