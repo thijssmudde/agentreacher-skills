@@ -1,8 +1,12 @@
 {
   "name": "agentreacher-skills",
   "skills": [
-    "./skills/social-media/viral-hook-generator",
-    "./skills/social-media/repurpose-content",
-    "./skills/strategy/competitor-positioning"
+    "./skills/social-media/viral-hooks",
+    "./skills/social-media/repurpose",
+    "./skills/strategy/positioning",
+    "./skills/planning/calendar-builder",
+    "./skills/planning/content-pillars",
+    "./skills/planning/cadence-planner",
+    "./skills/planning/post-packager"
   ]
 }

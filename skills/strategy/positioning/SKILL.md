@@ -1,5 +1,5 @@
 ---
-name: competitor-positioning
+name: positioning
 description: Analyze competing products and turn the market gap into credible positioning, messaging angles, and social campaign claims. Use when comparing competitors, writing alternative pages, sharpening product positioning, or planning campaigns against a category narrative.
 tags:
   - positioning
@@ -8,7 +8,7 @@ tags:
   - agentreacher-compatible
 ---
 
-# Competitor Positioning
+# Positioning
 
 Find the strongest credible contrast between a product and its alternatives. The output should help social content, landing pages, sales notes, and launch campaigns without sounding petty or inflated.
 

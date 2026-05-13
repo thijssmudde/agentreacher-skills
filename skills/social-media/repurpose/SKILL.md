@@ -1,5 +1,5 @@
 ---
-name: repurpose-content
+name: repurpose
 description: Repurpose one source asset into platform-specific social media posts while preserving the original idea and adapting format, tone, and call to action. Use when turning blogs, transcripts, changelogs, podcasts, videos, demos, notes, or launch plans into a social content package.
 tags:
   - social-media
@@ -8,7 +8,7 @@ tags:
   - agentreacher-compatible
 ---
 
-# Repurpose Content
+# Repurpose
 
 Turn one source asset into a compact campaign package. The goal is not to summarize everywhere. The goal is to extract the strongest ideas and make each platform feel native.
 

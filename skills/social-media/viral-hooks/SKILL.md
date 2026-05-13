@@ -1,5 +1,5 @@
 ---
-name: viral-hook-generator
+name: viral-hooks
 description: Generate platform-native hooks optimized for engagement, curiosity, and audience tension. Use when creating social media hooks, launch post openings, thread starters, video intros, founder story angles, or campaign first lines.
 tags:
   - social-media
@@ -8,7 +8,7 @@ tags:
   - agentreacher-compatible
 ---
 
-# Viral Hook Generator
+# Viral Hooks
 
 Create hooks that make the right audience want the next sentence. Do not chase generic virality. Optimize for relevance, tension, credibility, and platform fit.
 
